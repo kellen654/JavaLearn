@@ -1,5 +1,7 @@
 # 3. 数组中重复的数字
 
+[学习方法](https://juejin.cn/post/7147528379825127455)
+
 ## 题目链接
 
 [牛客网](https://www.nowcoder.com/practice/6fe361ede7e54db1b84adc81d09d8524?tpId=13&tqId=11203&tab=answerKey&from=cyc_github)
@@ -25,6 +27,8 @@ Output:
 以 (2, 3, 1, 0, 2, 5) 为例，遍历到位置 4 时，该位置上的数为 2，但是第 2 个位置上已经有一个 2 的值了，因此可以知道 2 重复：
 
 <div align="center"> <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/643b6f18-f933-4ac5-aa7a-e304dbd7fe49.gif" width="350px"> </div><br>
+
+![带logo模板](https://github.com/kellen654/JavaLearn/assets/46039059/9e719033-0a60-42bf-ad31-aef84bd74c4c)
 
 
 ```java
