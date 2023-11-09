@@ -1,4 +1,4 @@
-# java基础
+# java
 ## 基础
 ## 多线程和并发
 ## JVM
@@ -46,4 +46,6 @@
 ## 风控：risk
 ## 商城：mall
 
+# 其他
+## [markdown基本语法](https://github.com/younghz/Markdown)
 
