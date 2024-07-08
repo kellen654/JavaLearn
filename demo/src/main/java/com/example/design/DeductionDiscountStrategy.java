@@ -12,4 +12,5 @@ public class DeductionDiscountStrategy implements DiscountStrategy {
     public double calculateDiscount(double totalAmount) {
         return Math.min(totalAmount, deductionAmount);
     }
+
 }
